@@ -1,0 +1,10 @@
+*.db
+*.pdf
+venv/
+__pycache__/
+/.vscode
+*.egg-info/
+sdocs/
+/resources
+*.py[oc]
+target/
