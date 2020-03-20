@@ -5,7 +5,7 @@ ProductBrowser is a product information browser, designed and created for use by
 ![ProductBrowser](https://i.imgur.com/tCjqzAm.gif)
 <p align="center">(stock levels intentionally removed)</p>
 
-ProductBrowser collates product information from five different systems used internally at Lighting Direct, making it immediately available and easily searchable to help with answering customer queries. The interface is designed to reduce the number of interactions required to find the desired information, while still being discoverable and intuitive.
+ProductBrowser collates product information from four different systems used internally at Lighting Direct, making it immediately available and easily searchable to help with answering customer queries. The interface is designed to reduce the number of interactions required to find the desired information, while still being discoverable and intuitive.
 
 ## Note
 
